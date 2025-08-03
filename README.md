@@ -82,7 +82,7 @@ This project was built as part of the IBM SkillsBuild AI-ML Internship by **Team
 | **Shatakshi Tiwari**| Co-Lead / CV Lead    | [GitHub](https://github.com/Shatakshi0216) | [LinkedIn](https://www.linkedin.com/in/shatakshitiwari017/)  |
 | **Sahil Kukreja** | Co-Lead / Agent Lead   | [GitHub](https://github.com/Sahilkukreja30) | [LinkedIn](https://www.linkedin.com/in/sahil-kukreja-943993289/)  |
 | **Sumedha** | Frontend / Jr. Dev     | [their-github-id](https://github.com/their-id)    | [their-linkedin-id](https://linkedin.com/in/their-id)  |
-| **Rachit** | Frontend / Jr. Dev     | [their-github-id](https://github.com/their-id)     | [their-linkedin-id](https://linkedin.com/in/their-id)  |
+| **Rachit** | Frontend / Jr. Dev     | [their-github-id](https://github.com/Rachitneema03)     | [their-linkedin-id](www.linkedin.com/in/rachit-neema)  |
 | **Nitika** | Documentation / Jr. Dev| [their-github-id](https://github.com/their-id)     | [their-linkedin-id](https://linkedin.com/in/their-id)  |
 | **Pratishta** | Documentation / Jr. Dev| [their-github-id](https://github.com/their-id)  | [their-linkedin-id](https://linkedin.com/in/their-id)  |
 
